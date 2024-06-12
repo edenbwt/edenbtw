@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on [My model rocket](https://github.com/edenbwt/My-rocket-fly-computer)
 
 - 🌱 I’m currently learning **Go C# And prefecting C++**
-
+<h3 align="left">Help me</h3>
+<p>BTC addres: bc1qeqcu2c6rr6g8dtzw552r40wnnlrz7mrwahne5e</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@blackma33069712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@blackma33069712" height="30" width="40" /></a>
