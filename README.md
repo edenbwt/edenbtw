@@ -8,6 +8,7 @@ Hello! I'm **Eden**, a passionate cybersecurity student from France. I have a st
 - **Programming Languages**: 
   - Golang
   - C#
+  - C
   - Java
   - C++
   - Python
